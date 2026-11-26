@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="678" viewBox="0 0 340 226" role="img" aria-labelledby="title">
+<title id="title">Without structured lifecycle management</title>
+<rect width="340" height="226" rx="7" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="9" y="8" width="100" height="32" rx="5" fill="#64748b" fill-opacity="0.12" stroke="#64748b"/>
+<text x="59" y="28" font-size="11" fill="#243142" text-anchor="middle">Developer</text>
+<path d="M59 40 V62 L170 78" fill="none" stroke="#8793a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="120" y="8" width="100" height="32" rx="5" fill="#64748b" fill-opacity="0.12" stroke="#64748b"/>
+<text x="170" y="28" font-size="11" fill="#243142" text-anchor="middle">AI Agent 1</text>
+<path d="M170 40 V62 L170 78" fill="none" stroke="#8793a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="231" y="8" width="100" height="32" rx="5" fill="#64748b" fill-opacity="0.12" stroke="#64748b"/>
+<text x="281" y="28" font-size="11" fill="#243142" text-anchor="middle">AI Agent 2</text>
+<path d="M281 40 V62 L170 78" fill="none" stroke="#8793a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="8" y="78" width="324" height="140" rx="7" fill="#64748b" fill-opacity="0.04" stroke="#64748b" stroke-dasharray="5 3"/>
+<text x="170" y="96" font-size="11" font-weight="600" fill="#243142" text-anchor="middle">Shared Docker environment</text>
+<rect x="22" y="108" width="92" height="28" rx="4" fill="#64748b" fill-opacity="0.1" stroke="#64748b"/>
+<text x="68" y="125" font-size="10" fill="#243142" text-anchor="middle">Database</text>
+<rect x="124" y="108" width="92" height="28" rx="4" fill="#64748b" fill-opacity="0.1" stroke="#64748b"/>
+<text x="170" y="125" font-size="10" fill="#243142" text-anchor="middle">Container</text>
+<rect x="226" y="108" width="92" height="28" rx="4" fill="#d97706" fill-opacity="0.1" stroke="#d97706"/>
+<text x="272" y="125" font-size="10" fill="#243142" text-anchor="middle">Old image</text>
+<rect x="22" y="144" width="92" height="28" rx="4" fill="#dc2626" fill-opacity="0.1" stroke="#dc2626"/>
+<text x="68" y="161" font-size="10" fill="#243142" text-anchor="middle">Orphan volume</text>
+<rect x="124" y="144" width="92" height="28" rx="4" fill="#64748b" fill-opacity="0.1" stroke="#64748b"/>
+<text x="170" y="161" font-size="10" fill="#243142" text-anchor="middle">Test runner</text>
+<rect x="226" y="144" width="92" height="28" rx="4" fill="#d97706" fill-opacity="0.1" stroke="#d97706"/>
+<text x="272" y="161" font-size="10" fill="#243142" text-anchor="middle">Old network</text>
+<text x="170" y="197" font-size="11" fill="#dc2626" text-anchor="middle">Uncertain ownership and leftover resources</text>
+</g>
+</svg>

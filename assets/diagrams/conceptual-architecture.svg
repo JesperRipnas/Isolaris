@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="984" viewBox="0 0 340 328" role="img" aria-labelledby="title">
+<title id="title">Conceptual architecture: different applications, one reusable infrastructure framework</title>
+<rect width="340" height="328" rx="7" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="6" y="8" width="106" height="44" rx="5" fill="#64748b" fill-opacity="0.09" stroke="#64748b"/>
+<text x="59" y="34" font-size="12" font-weight="600" fill="#243142" text-anchor="middle">Angular App</text>
+<path d="M59 52 V70" fill="none" stroke="#8793a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="6" y="70" width="106" height="38" rx="4" fill="#64748b" fill-opacity="0.07" stroke="#64748b"/>
+<text x="59" y="85" font-size="10" fill="#243142" text-anchor="middle">Project-specific</text>
+<text x="59" y="98" font-size="10" fill="#243142" text-anchor="middle">configuration</text>
+<path d="M59 108 V124" fill="none" stroke="#8793a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="117" y="8" width="106" height="44" rx="5" fill="#64748b" fill-opacity="0.09" stroke="#64748b"/>
+<text x="170" y="34" font-size="12" font-weight="600" fill="#243142" text-anchor="middle">Python App</text>
+<path d="M170 52 V70" fill="none" stroke="#8793a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="117" y="70" width="106" height="38" rx="4" fill="#64748b" fill-opacity="0.07" stroke="#64748b"/>
+<text x="170" y="85" font-size="10" fill="#243142" text-anchor="middle">Project-specific</text>
+<text x="170" y="98" font-size="10" fill="#243142" text-anchor="middle">configuration</text>
+<path d="M170 108 V124" fill="none" stroke="#8793a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="228" y="8" width="106" height="44" rx="5" fill="#64748b" fill-opacity="0.09" stroke="#64748b"/>
+<text x="281" y="34" font-size="12" font-weight="600" fill="#243142" text-anchor="middle">.NET App</text>
+<path d="M281 52 V70" fill="none" stroke="#8793a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="228" y="70" width="106" height="38" rx="4" fill="#64748b" fill-opacity="0.07" stroke="#64748b"/>
+<text x="281" y="85" font-size="10" fill="#243142" text-anchor="middle">Project-specific</text>
+<text x="281" y="98" font-size="10" fill="#243142" text-anchor="middle">configuration</text>
+<path d="M281 108 V124" fill="none" stroke="#8793a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="6" y="124" width="328" height="149" rx="7" fill="#0d9488" fill-opacity="0.05" stroke="#0d9488"/>
+<text x="170" y="143" font-size="13" font-weight="600" fill="#243142" text-anchor="middle">ISOLARIS</text>
+<rect x="16" y="152" width="308" height="29" rx="4" fill="#0d9488" fill-opacity="0.15" stroke="#0d9488"/>
+<text x="170" y="170" font-size="11" fill="#243142" text-anchor="middle">CLI · API · Optional integrations</text>
+<rect x="16" y="191" width="100" height="29" rx="4" fill="#0d9488" fill-opacity="0.08" stroke="#0d9488"/>
+<text x="66" y="209" font-size="10" fill="#243142" text-anchor="middle">Ownership</text>
+<rect x="120" y="191" width="100" height="29" rx="4" fill="#0d9488" fill-opacity="0.08" stroke="#0d9488"/>
+<text x="170" y="209" font-size="10" fill="#243142" text-anchor="middle">Lifecycle</text>
+<rect x="224" y="191" width="100" height="29" rx="4" fill="#0d9488" fill-opacity="0.08" stroke="#0d9488"/>
+<text x="274" y="209" font-size="10" fill="#243142" text-anchor="middle">Verification</text>
+<rect x="16" y="227" width="100" height="29" rx="4" fill="#0d9488" fill-opacity="0.08" stroke="#0d9488"/>
+<text x="66" y="245" font-size="10" fill="#243142" text-anchor="middle">Recovery</text>
+<rect x="120" y="227" width="100" height="29" rx="4" fill="#0d9488" fill-opacity="0.08" stroke="#0d9488"/>
+<text x="170" y="245" font-size="10" fill="#243142" text-anchor="middle">Resource control</text>
+<rect x="224" y="227" width="100" height="29" rx="4" fill="#0d9488" fill-opacity="0.08" stroke="#0d9488"/>
+<text x="274" y="245" font-size="10" fill="#243142" text-anchor="middle">Diagnostics</text>
+<path d="M170 273 V289" fill="none" stroke="#8793a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="6" y="289" width="328" height="31" rx="5" fill="#2563eb" fill-opacity="0.09" stroke="#2563eb"/>
+<text x="170" y="309" font-size="12" font-weight="600" fill="#243142" text-anchor="middle">Docker infrastructure</text>
+</g>
+</svg>

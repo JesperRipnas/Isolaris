@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="828" viewBox="0 0 340 276" role="img" aria-labelledby="title">
+<title id="title">With Isolaris</title>
+<rect width="340" height="276" rx="7" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="9" y="8" width="100" height="30" rx="5" fill="#64748b" fill-opacity="0.1" stroke="#64748b"/>
+<text x="59" y="27" font-size="11" fill="#243142" text-anchor="middle">Developer</text>
+<path d="M59 38 V54" fill="none" stroke="#8793a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="120" y="8" width="100" height="30" rx="5" fill="#64748b" fill-opacity="0.1" stroke="#64748b"/>
+<text x="170" y="27" font-size="11" fill="#243142" text-anchor="middle">AI Agent 1</text>
+<path d="M170 38 V54" fill="none" stroke="#8793a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="231" y="8" width="100" height="30" rx="5" fill="#64748b" fill-opacity="0.1" stroke="#64748b"/>
+<text x="281" y="27" font-size="11" fill="#243142" text-anchor="middle">AI Agent 2</text>
+<path d="M281 38 V54" fill="none" stroke="#8793a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="9" y="54" width="322" height="42" rx="5" fill="#0d9488" fill-opacity="0.12" stroke="#0d9488"/>
+<text x="170" y="72" font-size="13" font-weight="600" fill="#243142" text-anchor="middle">ISOLARIS</text>
+<text x="170" y="86" font-size="10" fill="#243142" text-anchor="middle">Ownership · Lifecycle · Verification</text>
+<path d="M59 96 V112" fill="none" stroke="#0d9488" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="9" y="112" width="100" height="108" rx="5" fill="#0d9488" fill-opacity="0.04" stroke="#0d9488"/>
+<text x="59" y="128" font-size="10" font-weight="600" fill="#243142" text-anchor="middle">Run 1</text>
+<rect x="17" y="138" width="84" height="19" rx="3" fill="#0d9488" fill-opacity="0.1" stroke="#0d9488"/>
+<text x="59" y="151" font-size="10" fill="#243142" text-anchor="middle">Containers</text>
+<rect x="17" y="162" width="84" height="19" rx="3" fill="#0d9488" fill-opacity="0.1" stroke="#0d9488"/>
+<text x="59" y="175" font-size="10" fill="#243142" text-anchor="middle">Volumes</text>
+<rect x="17" y="186" width="84" height="19" rx="3" fill="#0d9488" fill-opacity="0.1" stroke="#0d9488"/>
+<text x="59" y="199" font-size="10" fill="#243142" text-anchor="middle">Networks</text>
+<path d="M170 96 V112" fill="none" stroke="#0d9488" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="120" y="112" width="100" height="108" rx="5" fill="#0d9488" fill-opacity="0.04" stroke="#0d9488"/>
+<text x="170" y="128" font-size="10" font-weight="600" fill="#243142" text-anchor="middle">Run 2</text>
+<rect x="128" y="138" width="84" height="19" rx="3" fill="#0d9488" fill-opacity="0.1" stroke="#0d9488"/>
+<text x="170" y="151" font-size="10" fill="#243142" text-anchor="middle">Containers</text>
+<rect x="128" y="162" width="84" height="19" rx="3" fill="#0d9488" fill-opacity="0.1" stroke="#0d9488"/>
+<text x="170" y="175" font-size="10" fill="#243142" text-anchor="middle">Volumes</text>
+<rect x="128" y="186" width="84" height="19" rx="3" fill="#0d9488" fill-opacity="0.1" stroke="#0d9488"/>
+<text x="170" y="199" font-size="10" fill="#243142" text-anchor="middle">Networks</text>
+<path d="M281 96 V112" fill="none" stroke="#0d9488" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="231" y="112" width="100" height="108" rx="5" fill="#0d9488" fill-opacity="0.04" stroke="#0d9488"/>
+<text x="281" y="128" font-size="10" font-weight="600" fill="#243142" text-anchor="middle">Run 3</text>
+<rect x="239" y="138" width="84" height="19" rx="3" fill="#0d9488" fill-opacity="0.1" stroke="#0d9488"/>
+<text x="281" y="151" font-size="10" fill="#243142" text-anchor="middle">Containers</text>
+<rect x="239" y="162" width="84" height="19" rx="3" fill="#0d9488" fill-opacity="0.1" stroke="#0d9488"/>
+<text x="281" y="175" font-size="10" fill="#243142" text-anchor="middle">Volumes</text>
+<rect x="239" y="186" width="84" height="19" rx="3" fill="#0d9488" fill-opacity="0.1" stroke="#0d9488"/>
+<text x="281" y="199" font-size="10" fill="#243142" text-anchor="middle">Networks</text>
+<rect x="9" y="236" width="322" height="31" rx="5" fill="#64748b" fill-opacity="0.08" stroke="#64748b"/>
+<text x="170" y="255" font-size="11" fill="#243142" text-anchor="middle">Persistent and shared resources — protected</text>
+</g>
+</svg>
